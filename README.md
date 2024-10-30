@@ -1,4 +1,4 @@
-# FreeCodeCamp Projects and Curriculum
+# FreeCodeCamp Learning
 
 This repository contains my progress through the freeCodeCamp curriculum, including both curriculum projects and certification projects.
 
@@ -33,13 +33,15 @@ fcc-learning/
 
 This repository contains two types of content with different licenses:
 
-1. Curriculum Content:
+1. **Curriculum Content**:
    - The curriculum content from freeCodeCamp is licensed under the [BSD 3-Clause License](LICENSE) and is also available under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
    - For more information on freeCodeCamp's curriculum licensing, please refer to their [GitHub repository](https://github.com/freeCodeCamp/freeCodeCamp).
   
-3. Certification Projects:
-   - The projects I've created based on the FreeCodeCamp curriculum are licensed under the [MIT License](LICENSE-CERTPROJECTS).
-  
+2. **My Certification Projects**:
+   - The certification projects I've created based on the freeCodeCamp curriculum are protected 
+   under a [custom license](LICENSE), which restricts usage. All rights are reserved for these 
+   specific projects.
+
 Please see the respective license files for full terms and conditions.
 
 ## Contact
