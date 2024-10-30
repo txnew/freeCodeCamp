@@ -1,35 +1,20 @@
-MIT License
+Custom License for Certification Projects
 
 Copyright (c) 2024 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧 𝐉𝐮𝐧𝐜𝐭𝐢𝐨𝐧: 𝐖𝐡𝐞𝐫𝐞 𝐂𝐨𝐝𝐞 𝐌𝐞𝐞𝐭𝐬 𝐂𝐫𝐞𝐚𝐭𝐢𝐯𝐢𝐭𝐲 ✨
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+All rights reserved.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This license applies specifically to the certification projects created as part of the 
+freeCodeCamp curriculum.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. You may view and fork this repository for personal use and learning purposes.
+2. You may not use, copy, modify, merge, publish, distribute, sublicense, or sell 
+   copies of these certification projects without explicit written permission from 
+   the author.
+3. Any use of this code must give credit to [Toni N]. and include a link to the 
+   original repository.
 
-Note: This license applies to all code in this repository, except for the 
-certification projects, which are original works and are subject to differant
-terms (see below). Please contact the repository owner for clarifications regarding
-the use of certification project code.
+This software includes content based on curriculum from freeCodeCamp.org, 
+which is licensed under the BSD 3-Clause License. See LICENSE-FCC for details.
 
-Certification Projects:
-   The certification project code in this repository is proprietary and 
-   protected by copyright law. No permission is granted to use, copy, modify, 
-   merge, publish, distribute, sublicense, or sell copies of the certification 
-   assignment code.
-
-Acknowledgment: This project was inspired by and based on the curriculum 
-from freeCodeCamp (https://www.freecodecamp.org/).
+For inquiries regarding usage or permissions, please contact [https://linkedin.com/in/txnew/].
