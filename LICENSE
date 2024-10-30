@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧 𝐉𝐮𝐧𝐜𝐭𝐢𝐨𝐧: 𝐖𝐡𝐞𝐫𝐞 𝐂𝐨𝐝𝐞 𝐌𝐞𝐞𝐭𝐬 𝐂𝐫𝐞𝐚𝐭𝐢𝐯𝐢𝐭𝐲 ✨ 
+Copyright (c) 2024 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧 𝐉𝐮𝐧𝐜𝐭𝐢𝐨𝐧: 𝐖𝐡𝐞𝐫𝐞 𝐂𝐨𝐝𝐞 𝐌𝐞𝐞𝐭𝐬 𝐂𝐫𝐞𝐚𝐭𝐢𝐯𝐢𝐭𝐲 ✨
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,17 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Note: This license applies to all code in this repository, except for the 
+certification projects, which are original works and are subject to differant
+terms (see below). Please contact the repository owner for clarifications regarding
+the use of certification project code.
+
+Certification Projects:
+   The certification project code in this repository is proprietary and 
+   protected by copyright law. No permission is granted to use, copy, modify, 
+   merge, publish, distribute, sublicense, or sell copies of the certification 
+   assignment code.
+
+Acknowledgment: This project was inspired by and based on the curriculum 
+from freeCodeCamp (https://www.freecodecamp.org/).
