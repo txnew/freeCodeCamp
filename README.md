@@ -34,13 +34,14 @@ fcc-learning/
 This repository contains two types of content with different licenses:
 
 1. **Curriculum Content**:
-   - The curriculum content from freeCodeCamp is licensed under the [BSD 3-Clause License](LICENSE) and is also available under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+   - The curriculum content from freeCodeCamp is licensed under the [BSD 3-Clause License](LICENSE-FCC) and is also
+   - available under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
    - For more information on freeCodeCamp's curriculum licensing, please refer to their [GitHub repository](https://github.com/freeCodeCamp/freeCodeCamp).
   
 2. **My Certification Projects**:
    - The certification projects I've created based on the freeCodeCamp curriculum are protected 
-   under a [custom license](LICENSE), which restricts usage. All rights are reserved for these 
-   specific projects.
+   under a [custom license](LICENSE), which restricts usage and includes an honor system clause.
+   All rights are reserved for these specific projects.
 
 Please see the respective license files for full terms and conditions.
 
